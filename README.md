@@ -13,7 +13,7 @@ Clone Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/3d-portfolio.git
+git clone https://github.com/your-username/Personal-Portfolio.git
 Install Dependencies:
 
 bash
@@ -36,4 +36,5 @@ Feel free to contribute by opening issues or submitting pull requests. Your feed
 
 
 
-# Inspired from JavaScript Mastery.
+# Inspired by JavaScript Mastery.
+link : https://www.youtube.com/@javascriptmastery
